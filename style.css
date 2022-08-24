@@ -1,0 +1,33 @@
+body {
+    background-color: antiquewhite;
+}
+section {
+    text-align: center;
+}
+
+section .photo {
+    width: 35%;
+    margin-top: 30px;
+}
+
+section .text {
+    display: inline-block;
+    align-items: center;
+    font-size: large;
+    width: 35%;
+}
+
+section .vidio {
+    position: relative;
+    bottom: 235px;
+    display: inline-block;
+    margin-right: 800px;
+
+}
+
+section .reklam {
+    width: 30%;
+    position: relative;
+    display: inline-block;
+    margin-left: 1000px;
+}
